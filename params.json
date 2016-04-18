@@ -1,0 +1,6 @@
+{
+  "name": "Annexare.GitHub.io",
+  "tagline": "",
+  "body": "# Annexare Studio\r\n\r\nPlease check our official resources & projects:\r\n\r\n* [Official website](https://annexare.com/)\r\n* [Chromecast GUI app](http://annexare.github.io/Chromecast/) for Windows & OS X\r\n* [Pack directory](http://annexare.github.io/PackDir/) NPM package\r\n* [Countries & Continents list](http://annexare.github.io/Countries/) (in JSON & SQL)\r\n* [Scrolly](http://annexare.github.io/scrolly.js/): fast vanilla JS scrollbar plugin\r\n* [String: toURI() & transliterate()](http://annexare.github.io/toURI/) for JS\r\n\r\nFeel free to use it on your own, or send pull request for changes/updates.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
